@@ -5,13 +5,18 @@ public class ThreadExemplo {
 
         b2.start();
         b22.start();
+        // Esse trecho vai executar antes do sout dentro da thread executar
+        System.out.println(b2.getName());
+        System.out.println(b22.getName());
+        Thread gerarPDF = new Thread(new GerarPDF());
+        gerarPDF.start();
     }
 }
 
 class GerarPDF implements Runnable {
     @Override
     public void run() {
-        System.out.println("Gerar PDF");
+        System.out.println("Gerar PDF...");
     }
 }
 
