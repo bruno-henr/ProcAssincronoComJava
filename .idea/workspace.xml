@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172efd94-f415-4f6c-a237-6107786fed96" name="Changes" comment="Visualizando o funcionamento da classe Thread">
-      <change afterPath="$PROJECT_DIR$/src/ExecutorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ParalelStreams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="172efd94-f415-4f6c-a237-6107786fed96" name="Changes" comment="trabalhando com streams paralelos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreadExemplo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreadExemplo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ParalelStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ParalelStreams.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,13 +95,22 @@
       <option name="project" value="LOCAL" />
       <updated>1694101806789</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="trabalhando com streams paralelos">
+      <option name="closed" value="true" />
+      <created>1694117048771</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694117048771</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="Trabalhando com Threads" />
     <MESSAGE value="Visualizando o funcionamento da classe Thread" />
-    <option name="LAST_COMMIT_MESSAGE" value="Visualizando o funcionamento da classe Thread" />
+    <MESSAGE value="trabalhando com streams paralelos" />
+    <option name="LAST_COMMIT_MESSAGE" value="trabalhando com streams paralelos" />
   </component>
 </project>
